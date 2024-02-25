@@ -19,3 +19,11 @@ Rules –
 features:
 1. Automatically saves the game for a user at every stage so the user can continue from where he left off last time.
 2. Real-time update of points on the leaderboard for all the users if they are playing simultaneously. 
+
+Steps to Run
+This guide provides instructions on how to run the project.
+
+Prerequisites
+Before proceeding, ensure you have the following installed:
+
+Node.js (with npm)
