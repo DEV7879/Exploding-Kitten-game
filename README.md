@@ -35,21 +35,25 @@ List any prerequisites or dependencies needed to run the project.
 
 You can download Redis for Windows from the official GitHub repository: MicrosoftArchive/redis. 
 
-Extract the Files:
+
+**Extract the Files:**
 
 Once the download is complete, extract the contents of the downloaded zip file to a directory on your computer. For example, you can extract it to C:\Redis.
 
-Run Redis Server:
+
+**Run Redis Server:**
 
 Open a Command Prompt window with administrator privileges.
 
-Navigate to Redis Directory:
+
+**Navigate to Redis Directory:**
 
 Use the cd command to navigate to the directory where you extracted Redis. For example:
 
  ```bash
 cd C:\Redis
 ```
+
 
 Start Redis Server:
 
@@ -58,6 +62,7 @@ Run the following command to start the Redis server:
  ```bash
 redis-server.exe
 ```
+
 
 ## Getting Started
 
