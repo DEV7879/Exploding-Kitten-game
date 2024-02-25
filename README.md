@@ -27,8 +27,6 @@ This guide provides instructions on how to run the project.
 
 ## Prerequisites
 
-List any prerequisites or dependencies needed to run the project.
-
 1. **Node.js (with npm)**
 
 2. **Download Redis for Windows:**
