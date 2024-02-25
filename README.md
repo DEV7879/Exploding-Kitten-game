@@ -31,22 +31,22 @@ List any prerequisites or dependencies needed to run the project.
 
 1. **Node.js (with npm)**
 
-**Download Redis for Windows:**
+2. **Download Redis for Windows:**
 
 You can download Redis for Windows from the official GitHub repository: MicrosoftArchive/redis. 
 
 
-2. **Extract the Files:**
+3. **Extract the Files:**
 
 Once the download is complete, extract the contents of the downloaded zip file to a directory on your computer. For example, you can extract it to C:\Redis.
 
 
-3. **Run Redis Server:**
+4. **Run Redis Server:**
 
 Open a Command Prompt window with administrator privileges.
 
 
-4. **Navigate to Redis Directory:**
+5. **Navigate to Redis Directory:**
 
 Use the cd command to navigate to the directory where you extracted Redis. For example:
 
@@ -55,7 +55,7 @@ cd C:\Redis
 ```
 
 
-5. Start Redis Server:
+6. Start Redis Server:
 
 Run the following command to start the Redis server:
 
