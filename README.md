@@ -20,10 +20,56 @@ features:
 1. Automatically saves the game for a user at every stage so the user can continue from where he left off last time.
 2. Real-time update of points on the leaderboard for all the users if they are playing simultaneously. 
 
-Steps to Run
+## Steps to Run
+
 This guide provides instructions on how to run the project.
 
-Prerequisites
-Before proceeding, ensure you have the following installed:
+
+## Prerequisites
+
+List any prerequisites or dependencies needed to run the project.
 
 Node.js (with npm)
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+1. **Download And Extract the Repository**
+
+2. **Navigate into the project directory:**
+
+    ```bash
+    cd project
+    ```
+
+3. **Install dependencies:**
+
+    ```bash
+    # Use the package manager of your choice, for example:
+    npm install
+    ```
+
+## Running the Project
+
+Explain how to run the project after setting it up.
+
+1. **Run the project:**
+
+    ```bash
+    # Provide specific instructions, for example:
+    npm start
+    ```
+
+## Usage
+
+Provide examples or instructions for using the project.
+
+## Contributing
+
+Explain how others can contribute to your project if applicable.
+
+## License
+
+This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
