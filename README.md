@@ -29,9 +29,9 @@ This guide provides instructions on how to run the project.
 
 List any prerequisites or dependencies needed to run the project.
 
-Node.js (with npm)
+**Node.js (with npm)**
 
-Download Redis for Windows:
+**Download Redis for Windows:**
 
 You can download Redis for Windows from the official GitHub repository: MicrosoftArchive/redis. 
 
